@@ -8,8 +8,8 @@
 #include <math.h>
 #include <complex.h>
 
-#define WIDTH 800
-#define HEIGHT 600
+#define WIDTH 800 
+#define HEIGHT 600 
 
 #define START_POS   -0.5
 #define START_ZOOM  (WIDTH * 0.25296875f)
